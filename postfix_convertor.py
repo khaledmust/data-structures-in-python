@@ -1,8 +1,4 @@
-#
-
 from stack import Stack
-
-#
 
 
 def operator_precedence(input_operator):
