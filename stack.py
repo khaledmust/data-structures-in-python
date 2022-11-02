@@ -24,3 +24,4 @@ class Stack:
     # Returns the state of the stack.
     def is_empty(self):
         return len(self._elements) == 0
+
